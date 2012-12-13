@@ -33,7 +33,10 @@
  * Back end modules
  */
 $GLOBALS['TL_LANG']['MOD']['restauthentification'] = array('REST-API', 'REST-Zugriffe auf TL-Tabellen verwalten.');
-
+/**
+ * Back end modules
+ */
+$GLOBALS['TL_LANG']['MOD']['rest'] = array('REST-API', 'REST-Zugriffe auf TL-Tabellen verwalten.');
 
 
 ?>
